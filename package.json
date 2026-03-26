@@ -1,0 +1,29 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "react"
+  ],
+  "homepage": "https://github.com/dharshu-codes/React-tutorial#readme",
+  "bugs": {
+    "url": "https://github.com/dharshu-codes/React-tutorial/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dharshu-codes/React-tutorial.git"
+  },
+  "license": "ISC",
+  "author": "Dharshini",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
